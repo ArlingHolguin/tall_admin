@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home2/paginaw1/livewirekit.arling.pro
-    - /bin/rsync -av public/ $DEPLOYPATH
